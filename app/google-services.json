@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:619480489868:android:74f76a66aaff135cb900a9",
+        "mobilesdk_app_id": "client key",
         "android_client_info": {
           "package_name": "com.imasha.ifitcoach"
         }
       },
       "oauth_client": [
         {
-          "client_id": "619480489868-brunajohser7hc0daolahs5c72646f12.apps.googleusercontent.com",
+          "client_id": "client key",
           "client_type": 1,
           "android_info": {
             "package_name": "com.imasha.ifitcoach",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "619480489868-3fhaqg09eadnipqa0rse8091dimn41lc.apps.googleusercontent.com",
+          "client_id": "client key",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAyX0AFVXZODQ75TMiU2CdqkoQys2zBce0"
+          "current_key": "Your Key"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "619480489868-3fhaqg09eadnipqa0rse8091dimn41lc.apps.googleusercontent.com",
+              "client_id": "client key",
               "client_type": 3
             }
           ]
